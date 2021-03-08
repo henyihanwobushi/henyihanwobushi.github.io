@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Scikit-Learn Design
-date: 2019-01-15 00:12 +0800
 ---
-
 Scikit-Learn’s API is remarkably well designed. The main design principles are:
 
 # Consistency

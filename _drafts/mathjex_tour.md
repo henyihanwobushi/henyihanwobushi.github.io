@@ -2,7 +2,6 @@
 layout: post
 title: MathJax basic tutorial and quick reference
 ---
-
 This is for practice, the content is basicly from [MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
 # Basic
