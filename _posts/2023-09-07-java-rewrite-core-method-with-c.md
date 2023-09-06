@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[java] Rewrite Core Method with C++"
-date: 2023-09-07 01:49 +0800
+date: 2023-09-07 02:03 +0800
 ---
 # Introduction
 
@@ -122,6 +122,8 @@ We will get the following output.
 ping from java...
 pong from c++...
 ```
+
+The code is available on [github](https://github.com/henyihanwobushi/jni-demo).
 
 # Reference
 
