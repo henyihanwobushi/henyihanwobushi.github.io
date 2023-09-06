@@ -1,4 +1,11 @@
 ---
 layout: post
-title: Complexity
+title: 复杂
 ---
+
+> 认识你自己，这是最难的。
+> ——苏格拉底
+
+
+## 复杂
+
