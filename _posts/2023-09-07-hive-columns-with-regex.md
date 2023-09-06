@@ -12,7 +12,7 @@ date: 2023-09-07 00:47 +0800
 > SELECT `(ds|hr)?+.+` FROM sales
 > ```
 
--- [Hive Language Manual - Select](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Select)
+-- [Hive Language Manual - Select](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Select){:target="_blank"}
 
 在Hive中，可以使用正则表达式来选择列，但是需要注意的是，这个功能在0.13.0版本之后才支持，而且需要设置`hive.support.quoted.identifiers`为`none`。
 
