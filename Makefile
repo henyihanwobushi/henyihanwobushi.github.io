@@ -1,7 +1,6 @@
 NOW=`date +'%Y-%m-%d %H:%M:%S'`
 
-deploy:
-	save
+deploy: save
 	@git push origin gh-pages
 	open https://henyihanwobushi.github.io/
 
