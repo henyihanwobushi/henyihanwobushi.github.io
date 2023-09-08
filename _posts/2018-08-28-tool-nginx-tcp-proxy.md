@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [tool] Nginx tcp 请求转发
+title: "[tool] Nginx tcp 请求转发"
 tags: tools
 ---
 

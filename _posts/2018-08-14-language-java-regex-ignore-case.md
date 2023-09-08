@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [language] Java正则忽略大小写
+title: "[language] Java正则忽略大小写"
 date: 2018-08-14 19:44 +0800
 tags: language,sql
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [thinking]《深度工作》读书笔记
+title: "[thinking]《深度工作》读书笔记"
 date: 2019-01-29 00:45 +0800
 tag: reading
 ---
