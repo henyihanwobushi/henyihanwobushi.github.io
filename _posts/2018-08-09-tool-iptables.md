@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iptables 简介
+title: [tool] Iptables 简介
 date: 2018-08-09 16:09 +0800
 tags: linux
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[hive] REGEX Column Specification"
+title: "[language] REGEX Column Specification"
 date: 2023-09-07 00:47 +0800
 ---
 > A SELECT statement can take regex-based column specification in Hive releases prior to 0.13.0, or in 0.13.0 and later releases if the configuration property hive.support.quoted.identifiers is set to none. 

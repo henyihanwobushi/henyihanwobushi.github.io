@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 字符串相似度计算
+title: [algorithm]字符串相似度计算
 date: 2018-09-28 01:02 +0800
 tags: algorithm
 ---

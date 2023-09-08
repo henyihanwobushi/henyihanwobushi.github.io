@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[java] Rewrite Core Method with C++"
+title: "[language] Rewrite Core Method with C++"
 date: 2023-09-07 02:03 +0800
 ---
 # Introduction

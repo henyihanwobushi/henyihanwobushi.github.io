@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hdfs commands(不定期更新)
+title: [tool] Hdfs commands(不定期更新)
 date: 2018-08-10 10:08 +0800
 tags: hadoop
 ---
