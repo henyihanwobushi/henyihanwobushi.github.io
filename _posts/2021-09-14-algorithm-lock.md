@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[algorithm] Lock"
-date: 2023-09-14 00:25 +0800
+date: 2021-09-14 00:25 +0800
 ---
 # Introduction
 
