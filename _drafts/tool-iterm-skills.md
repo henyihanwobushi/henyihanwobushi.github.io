@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[tools] iTerm Skills"
+title: "[tool] iTerm Skills"
 ---
 
 | Settings          | Description                                                |
