@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[architecture] Clean Architecture"
-date: 2021-08-24 13:12 +0800
+title: "[architecture] Clean"
 ---
+
 # Introduction
 
 The Clean Architecture is a set of practices to create a software architecture that is simple, understandable, flexible, testable, and maintainable.
