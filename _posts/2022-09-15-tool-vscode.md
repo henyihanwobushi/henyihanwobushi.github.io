@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[tool] VSCode"
+title: "[Tool] VSCode"
 date: 2022-09-15 10:09 +0800
 ---
 VSCode is a great editor. It's free, fast, and extensible. You can use it to edit almost any kind of files. It's a great tool for developers.

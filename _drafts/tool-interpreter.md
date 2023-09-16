@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[tool] Interpreter"
+title: "[Tool] Interpreter"
 ---
 
 # Reference

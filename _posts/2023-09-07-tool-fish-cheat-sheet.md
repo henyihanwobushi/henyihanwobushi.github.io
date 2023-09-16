@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[tool] fish Cheat Sheet(Updating...)"
+title: "[Tool] fish Cheat Sheet(Updating...)"
 date: 2023-09-07 22:59 +0800
 ---
 # Introduction

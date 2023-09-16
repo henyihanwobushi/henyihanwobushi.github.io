@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[thought] Behaviour Design"
+title: "[Thought] Behaviour Design"
 ---
 
 B=MAP means that Behavior is a function of the Person in their Environment. We can change behavior by designing for the Person or the Environment.

@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "[thought] Information and Communications Technology"
+title: "[Thought] Information and Communications Technology"
 ---

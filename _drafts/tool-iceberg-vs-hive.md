@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "[tool] IceBerg vs Hive"
+title: "[Tool] IceBerg vs Hive"
 ---
