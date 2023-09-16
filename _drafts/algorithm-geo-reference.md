@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "[algorithm] Geo-Reference"
+title: "[Algorithm] Geo-Hashing"
 ---
 
 # Introduction
 
-Geo-Reference is a process of transforming a coordinate system from one spatial reference system(wgs84) to another spatial reference system.
+Geo-Hashing is a way to encode a geographic location into a short string of letters and digits. It's a hierarchical spatial data structure which subdivides space into buckets of grid shape, which is one of the many applications of what is known as a Z-order curve, and generally space-filling curves.
+
+## Geo-Hashing vs Geo-Referencing
+
+Georeferencing is the process of adding geographic information to a digital image so that mapping software can place the image in its real-world location.
+
+Geohashing and Georeferencing solve different problems to express the location of a point on the earth's surface.
+
+# Geo-Reference Types
+
+| Type | Description |
+| ---- | ----------- |
+| S2   | Google S2   |
+| H3   | Uber H3     |
 
 
 # References

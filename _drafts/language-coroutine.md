@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[language] Coroutine"
+title: "[Language] Coroutine"
 ---
 
 # Introduction

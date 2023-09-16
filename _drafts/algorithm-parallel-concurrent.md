@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[algorithm] Parallel & Concurrent"
+title: "[Algorithm] Parallel & Concurrent"
 ---
 
 # Introduction

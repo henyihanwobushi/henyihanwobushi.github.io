@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[architecture] Clean"
+title: "[Architecture] Clean"
 ---
 
 # Introduction

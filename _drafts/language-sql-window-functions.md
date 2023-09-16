@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "[language] sql window functions"
+title: "[Language] sql window functions"
 ---

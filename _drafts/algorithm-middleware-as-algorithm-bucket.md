@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "[algorithm] Middleware as Algorithm Bucket"
+title: "[Algorithm] Middleware as Algorithm Bucket"
 ---

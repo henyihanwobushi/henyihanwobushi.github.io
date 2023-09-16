@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[algorithm] DNN-GRU"
+title: "[Algorithm] DNN-GRU"
 ---
 
 # Introduction

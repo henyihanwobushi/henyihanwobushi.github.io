@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[algorithm] LSM-Tree"
+title: "[Algorithm] LSM-Tree"
 ---
 
 # References

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[personal] Flag"
+title: "[Personal] Flag"
 date:   2018-08-09 01:11:18 +0800
 tags: personal
 ---

@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "[algorithm] Atomic"
+title: "[Algorithm] Atomic"
 ---

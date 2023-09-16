@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [personal] 不依赖意义的生活
+title: [Personal] 不依赖意义的生活
 ---
 
 In the movie "The Shawshank Redemption", the main character Andy Dufresne said:

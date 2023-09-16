@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[algorithm] Map-Reduce"
+title: "[Algorithm] Map-Reduce"
 ---
 
 Map-Reduce is a programming model for processing large data sets with a parallel, distributed algorithm on a cluster.

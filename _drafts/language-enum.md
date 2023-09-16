@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[language] Enum"
+title: "[Language] Enum"
 ---
 
 # Introduction

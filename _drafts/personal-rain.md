@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[personal] Rain"
+title: "[Personal] Rain"
 ---
 > I sing in the rain, just singing in the rain. What a glorious feeling, I'm happy again.
 >

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[language] Rewrite Core Method with C++"
+title: "[Language] Rewrite Core Method with C++"
 date: 2023-09-07 02:03 +0800
 ---
 # Introduction

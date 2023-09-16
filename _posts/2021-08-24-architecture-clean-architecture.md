@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[architecture] Clean Architecture"
+title: "[Architecture] Clean Architecture"
 date: 2021-08-24 13:12 +0800
 ---
 # Introduction

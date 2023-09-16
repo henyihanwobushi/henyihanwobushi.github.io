@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[algorithm] Raft"
+title: "[Algorithm] Raft"
 ---
 
 Raft is a algorithm that solves the problem of distributed consensus. It is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
