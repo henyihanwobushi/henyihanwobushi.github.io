@@ -15,5 +15,6 @@ The model is inspired by the map and reduce functions commonly used in **functio
 
 Here is a simple shell script illustrating the basic idea of the MapReduce framework with a word count example:
 
-```bash
-cat 
+# Reference
+
+- Shuffle in Flink [https://www.alibabacloud.com/blog/flink-shuffle-3-0-vision-roadmap-and-progress_599809](https://www.alibabacloud.com/blog/flink-shuffle-3-0-vision-roadmap-and-progress_599809)

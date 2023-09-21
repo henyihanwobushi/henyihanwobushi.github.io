@@ -23,5 +23,6 @@ When the existing leader fails or when the algorithm initializes, a new leader n
 
 
 # Reference
+- [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 - The Raft Consensus Algorithm ([https://raft.github.io/](https://raft.github.io/))
 - Implementing Raft ([https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/))

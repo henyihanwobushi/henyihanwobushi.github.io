@@ -274,3 +274,5 @@ public class Foo {
 
 The difference between read/write lock and shared/exclusive lock is that the former is a lock while the latter is a lock type. That is, read/write lock is a lock that has two lock types: read lock and write lock. A read lock is a shared lock while a write lock is an exclusive lock.
 
+# References
+- [https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
