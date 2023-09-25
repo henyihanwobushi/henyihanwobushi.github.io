@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[Algorithm] LSM-Tree"
+date: 2019-02-10 00:00 +0000
 ---
-
 LSM-Tree is a data structure provides low cost indexing and high write throughput. It is commonly used in various applications and systems, including: [HBase](https://hbase.apache.org/), [Cassandra](https://cassandra.apache.org/), [RocksDB](https://rocksdb.org/).
 
 ## Overview
