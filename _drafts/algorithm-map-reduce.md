@@ -18,3 +18,4 @@ Here is a simple shell script illustrating the basic idea of the MapReduce frame
 # Reference
 
 - Shuffle in Flink [https://www.alibabacloud.com/blog/flink-shuffle-3-0-vision-roadmap-and-progress_599809](https://www.alibabacloud.com/blog/flink-shuffle-3-0-vision-roadmap-and-progress_599809)
+- MapReduce: A major step backwards [https://homes.cs.washington.edu/~billhowe/mapreduce_a_major_step_backwards.html](https://homes.cs.washington.edu/~billhowe/mapreduce_a_major_step_backwards.html)
