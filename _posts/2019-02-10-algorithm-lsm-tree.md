@@ -38,3 +38,4 @@ Other than algorithms, LSM tree is like a system design parttern, which can be u
 
 # References
 - RocksDB: [https://rocksdb.org/](https://rocksdb.org/)
+- [What is a LSM Tree?](https://dev.to/creativcoder/what-is-a-lsm-tree-3d75)
