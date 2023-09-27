@@ -20,7 +20,7 @@ paginate_path: "/page:num/"
 ogo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://www.github.com/henyihanwobushi
+    - https://github.com/henyihanwobushi
     - https://www.linkedin.com/in/henyihanwobushi/'
 webmaster_verifications:
   google: 
