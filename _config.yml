@@ -17,17 +17,9 @@ paginate: 10
 paginate_path: "/page:num/"
 
 #SEO
-twitter:
-  username:
-  card:
-facebook:
-  app_id: # Facebook app ID for Facebook insights
-  publisher: # Facebook page URL or ID of the publishing entity
-  admins: # Facebook user ID for domain insights linked to a personal account
-logo: /assets/img/logo.jpg
+ogo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    # - https://twitter.com/PandaSekh
     - https://www.github.com/henyihanwobushi
     - https://www.linkedin.com/in/henyihanwobushi/'
 webmaster_verifications:
