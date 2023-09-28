@@ -137,6 +137,8 @@ if __name__ == "__main__":
     print(guess(history_actions, cooling_rate=cooling_rate_from_half_life_period(3)))
 ```
 
+More test can be found in [this file](https://gist.github.com/henyihanwobushi/bc526319157c6bc85c49cad5f74f0f9e)
+
 ## Reference
 
 - Newton's law of cooling [https://en.wikipedia.org/wiki/Newton%27s_law_of_cooling](https://en.wikipedia.org/wiki/Newton%27s_law_of_cooling)

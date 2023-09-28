@@ -12,3 +12,4 @@ Language Server Protocol (LSP) is a protocol for communication between IDE and l
 # Reference
 
 - Language Server Extension Guide [https://code.visualstudio.com/api/language-extensions/language-server-extension-guide#why-language-server](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide#why-language-server)
+- 
