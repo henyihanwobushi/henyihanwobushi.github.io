@@ -53,21 +53,21 @@ In the game of Rock-Paper-Scissors, we may prefer a certain action over others w
 
 We will use Newton's low to guess which action will be taken by the opponent.
 
-The most simple condition is that the opponent will take the same action every time. In this case, we can easily guess the action by counting the number of times the opponent has taken each action.
+The most simple condition is that the opponent will take the same action every time. In this case, we can easily guess the action by counting the number of times the opponent has taken each action, let's call this player S.
 
 |        | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Action | R   | R   | R   | R   | R   | R   | R   | R   | R   | R   |
 | Guess  | R   | R   | R   | R   | R   | R   | R   | R   | R   | R   |
 
-The second condition is that the opponent will take the same action most of the time, and take other actions occasionally. In this case, we want to keep the guess consist with the action which the opponent has taken most of the time.
+The second condition is that the opponent will take the same action most of the time, and take other actions occasionally. In this case, we want to keep the guess consist with the action which the opponent has taken most of the time, let's call this player O.
 
 |        | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Action | R   | R   | R   | R   | R   | R   | R   | R   | P   | R   |
 | Guess  | R   | R   | R   | R   | R   | R   | R   | R   | R   | R   |
 
-The third condition is that the opponent will take the same action most of the time, and from some opint, the opponent will take other actions most of the time. In this case, we want to change the guess to the action which the opponent has changed to.
+The third condition is that the opponent will take the same action most of the time, and from some opint, the opponent will take other actions most of the time. In this case, we want to change the guess to the action which the opponent has changed to, let's call this player C.
 
 |        | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
 | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -97,6 +97,45 @@ if __name__ == "__main__":
 ```
 
 We can find that the base hotness doesn't affect the result, but the cooling rate does. The larger the cooling rate is, the more sensitive the guess is to the recent actions. The smaller the cooling rate is, the more sensitive the guess is to the long past actions, and the guess will change more slowly.
+
+## Cooling & Half-life
+
+The half-life of a substance is the time it takes for a quantity to reduce to half its initial value. The term is commonly used in nuclear physics to describe how quickly unstable atoms undergo, or how long stable atoms survive, radioactive decay. The term is also used more generally to characterize any type of exponential or non-exponential decay.
+
+The half-life of a substance is related to the cooling rate of the substance. The larger the cooling rate is, the shorter the half-life is. The smaller the cooling rate is, the longer the half-life is.
+
+We can calculate the half-life period from the cooling rate:
+
+$$
+\frac{1}{2} = e^{-kt_{1/2}}
+$$
+
+Then we can get:
+
+$$
+t_{1/2} = \frac{ln(2)}{k}
+$$
+
+And we can get the cooling rate from the half-life period:
+
+$$
+k = \frac{ln(2)}{t_{1/2}}
+$$
+
+Let's add a function to calculate cooling rate from half-life period:
+
+```python
+def cooling_rate_from_half_life_period(half_life_period):
+    return math.log(2) / half_life_period
+```
+
+And we can test in our Rock-Paper-Scissors guessing algorithm:
+
+```python
+if __name__ == "__main__":
+    history_actions = ["R", "R", "R", "R", "R", "S", "S", "S", "S", "S"]
+    print(guess(history_actions, cooling_rate=cooling_rate_from_half_life_period(3)))
+```
 
 ## Reference
 
