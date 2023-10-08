@@ -31,4 +31,6 @@ Life and death is a fundamental concept in the game of Go. It is related to the 
 
 ## References
 
-- [1] Go (game) [https://en.wikipedia.org/wiki/Go_(game)](https://en.wikipedia.org/wiki/Go_(game))
+- [1] Go (game) [https://en.wikipedia.org/wiki/Go_(game)]
+- [2] WGo.js [http://wgo.waltheri.net/player]
+- [3] Katrain [https://github.com/sanderland/katrain/releases]
