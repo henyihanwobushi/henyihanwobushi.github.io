@@ -30,6 +30,24 @@ DBSCAN(D, eps, MinPts)
          expandCluster(P, NeighborPts, C, eps, MinPts)
 ```
 
+## AutoDBSCAN
+
+AutoDBSCAN is an improvement of DBSCAN. It is a density-based clustering algorithm that automatically determines the value of $\epsilon$ and $MinPts$. [[2]](https://en.wikipedia.org/wiki/DBSCAN#AutoDBSCAN)
+
+Pseudo code:
+
+```
+AutoDBSCAN(D, MinPts)
+   C = 0
+   for each unvisited point P in dataset D
+      mark P as visited
+      NeighborPts = regionQuery(P, eps)
+      if sizeof(NeighborPts) < MinPts
+         mark P as NOISE
+      else
+         C = next cluster
+         expandCluster(P, NeighborPts, C, eps, MinPts)
+```
 
 
 

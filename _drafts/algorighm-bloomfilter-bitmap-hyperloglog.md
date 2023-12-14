@@ -43,3 +43,7 @@ class Bitmap(object):
         return False
 
 ```
+
+# References
+
+- [https://chengweihu.com/hyperloglog/](https://chengweihu.com/hyperloglog/)
