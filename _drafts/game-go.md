@@ -49,7 +49,7 @@ In the opening of the game, the corners and sides are more important than the ce
   
 ### Middle Game
 
-
+- Don't your competitor when he is making a mistake, the mistake will take effect later.
 
 
 ### End Game
